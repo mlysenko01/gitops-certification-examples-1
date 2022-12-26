@@ -34,4 +34,6 @@ spec:
       - setWeight: 60
       - pause: {}
       - setWeight: 100
-      - pause: {}     
+      - pause: {}   
+      
+      dynamicStableScale: true
